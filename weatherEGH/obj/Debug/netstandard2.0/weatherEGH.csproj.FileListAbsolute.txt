@@ -1,0 +1,16 @@
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/bin/Debug/netstandard2.0/weatherEGH.deps.json
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/bin/Debug/netstandard2.0/weatherEGH.dll
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/bin/Debug/netstandard2.0/ref/weatherEGH.dll
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/bin/Debug/netstandard2.0/weatherEGH.pdb
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/bin/Debug/netstandard2.0/Mono.Android.dll
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/bin/Debug/netstandard2.0/Mono.Android.pdb
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/obj/Debug/netstandard2.0/RefitStubs.g.cs
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/obj/Debug/netstandard2.0/weatherEGH.AssemblyInfoInputs.cache
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/obj/Debug/netstandard2.0/weatherEGH.AssemblyInfo.cs
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/obj/Debug/netstandard2.0/weatherEGH.csproj.CopyComplete
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/obj/Debug/netstandard2.0/weatherEGH.dll
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/obj/Debug/netstandard2.0/ref/weatherEGH.dll
+/Users/eduardogomez/Projects/weatherEGH/weatherEGH/obj/Debug/netstandard2.0/weatherEGH.pdb
